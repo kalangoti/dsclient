@@ -14,7 +14,7 @@
 	<artifactId>dsclient</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>DSClient</name>
-	<description>DSClient DevSuperior</description>
+	<description>DSClient</description>
 
 	<properties>
 		<java.version>11</java.version>

@@ -1,2 +1,2 @@
-# dsclient
-DSClient DevSuperior
+# DSClient
+DSClient
